@@ -13,7 +13,7 @@ Public portfolio for Joseph Capener, served by GitHub Pages at https://joseph-ca
 
 ## Commands
 - Node comes from nvm: `. ~/.nvm/nvm.sh && nvm use --lts`
-- `npm run dev` / `npm run build` / `npm run preview`
+- `npm run dev` listens on the LAN (port 4321) so it can be viewed from another machine; `npm run build` / `npm run preview`
 
 ## Open items
 - About and Contact pages contain TODOs for Joseph's own text.
